@@ -12,4 +12,4 @@ target_link_libraries(myApp
     libbar
 )
 
-install(TARGETS myApp DESTINATION /home/matt/Documents/DuduV/unitTests/integration gtest/build)
+install(TARGETS myApp DESTINATION /home/matt/Documents/DuduV/unitTests/integration_gtest/build)
